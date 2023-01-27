@@ -1,5 +1,6 @@
 ``` 
-The Below is the Documentation of the Related Api of Blog Post Application. I have used packages express, cors, bcryptjs,
+The Below is the Documentation of the Related Api of Blog Post Application. 
+I have used packages express, cors, bcryptjs,
 ```
 
 ## Auth API's
